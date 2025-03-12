@@ -18,7 +18,7 @@ This project is focused on loading test data and training a machine learning mod
 
 2. Install the required dependencies:
    ```sh
-   pip install -r requirements.txt
+   pip install "required_dependency_package"
    ```
 
 ## Usage
