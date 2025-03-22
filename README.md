@@ -27,3 +27,7 @@ Run the main script to start the data processing and model training:
 ```sh
 python convert_data.py
 ```
+
+![Figure_1_20](https://github.com/user-attachments/assets/7f1dbe72-c3bd-438b-8e53-00740edb7e29)
+![Figure_1_20_test](https://github.com/user-attachments/assets/3c15f910-1829-498c-8257-26dc730b9f16)
+
